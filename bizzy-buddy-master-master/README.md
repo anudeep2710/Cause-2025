@@ -1,4 +1,4 @@
-# BizzyBuddy - Business Management App
+# BizzyBuddy - Business Management App with AI
 
 BizzyBuddy is a Flutter-based offline-first application designed for retail shopkeepers and medium-scale businesses. It provides essential tools for inventory management, expense tracking, and sales monitoring.
 
